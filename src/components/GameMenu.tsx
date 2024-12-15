@@ -17,7 +17,7 @@ const games: GameInfo[] = [
   {
     id: 'tictactoe',
     title: 'Tic Tac Toe',
-    description: 'The classic game of Xs and Os',
+    description: 'The classic game of X\'s and O\'s',
     icon: Gamepad2,
     color: 'from-blue-500 to-blue-600'
   },
